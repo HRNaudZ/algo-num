@@ -3,3 +3,5 @@
 ##Dichotomie
 
 ###Newton-Raphson
+
+####Secant Method
