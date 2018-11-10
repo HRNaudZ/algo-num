@@ -5,3 +5,5 @@
 ###Newton-Raphson
 
 ####Secant Method
+
+#####Linear Interpolation Method
