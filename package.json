@@ -1,0 +1,25 @@
+{
+  "name": "algonum",
+  "version": "1.0.0",
+  "description": "Numerical Algorithmic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HRNaudZ/algo-num.git"
+  },
+  "keywords": [
+    "algonum"
+  ],
+  "author": "RoyNoone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HRNaudZ/algo-num/issues"
+  },
+  "homepage": "https://github.com/HRNaudZ/algo-num#readme",
+  "dependencies": {
+    "mathjs": "^5.2.3"
+  }
+}
