@@ -7,3 +7,5 @@
 ####Secant Method
 
 #####Linear Interpolation Method
+
+######Substitution Method
